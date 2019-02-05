@@ -22,17 +22,27 @@ section {
 
 #left {
   background-color: #666;
+  color: white;
+  width: 33.3%;
+  float: left;
 }
 
 #middle {
   background-color: #888;
+  color: white;
+  width: 33.3%;
+  float: left;
 }
 
 #right {
   background-color: #666;
+  color: white;
+  width: 33.3%;
+  float: left;
 }
 
 #full {
+  background-color: #eee;
 }
 
 #division {
